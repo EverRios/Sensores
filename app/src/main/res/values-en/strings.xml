@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">sensors</string>
+    <string name="hello_world">phone sensors:</string>
+    <string name="action_settings"></string>
+
+
+
+    <string name="Iniciar">start sensor</string>
+    <string name="Detener">Stop</string>
+    <string name="Salir">leave</string>
+    <string name="LIMPIAR">cleanse</string>
+
+
+    <string name="Acelerometer">ACCELEROMETER</string>
+    <string name="Gyroscope">GYROSCOPE</string>
+    <string name="Magnetic">MAGNETIC</string>
+    <string name="Proximity">PROXIMITY</string>
+
+    <string name="Sensor_magnetic"> Start Sensor Magnetic</string>
+    <string name="Giroscope">Start Sensor Gyroscope</string>
+    <string name="ACELEROMETER">Start Sensor Accelerometer</string>
+    <string name="PROXIMITY">Start Sensor Proximity</string>
+
+</resources>

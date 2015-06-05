@@ -1,13 +1,17 @@
+
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
 
-    <item android:id="@+id/iniciar" android:title="@string/INICIAR"
-        android:orderInCategory="100" app:showAsAction="never" />
-    <item android:id="@+id/detener" android:title="@string/DETENER"
-        android:orderInCategory="100" app:showAsAction="never" />
-    <item android:id="@+id/limpiar" android:title="@string/LIMPIAR"
+    <item android:id="@+id/Sensor_magnetic" android:title="@string/Sensor_magnetic"
         android:orderInCategory="100" app:showAsAction="never" />
 
+    <item android:id="@+id/ACELEROMETER" android:title="@string/ACELEROMETER"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/Giroscope" android:title="@string/Giroscope"
+    android:orderInCategory="100" app:showAsAction="never" />
+
+    <item android:id="@+id/PROXIMITY" android:title="@string/PROXIMITY"
+        android:orderInCategory="100" app:showAsAction="never" />
 
 </menu>
